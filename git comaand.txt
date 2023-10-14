@@ -6,5 +6,14 @@ $ git config --global user.email shahidraza7463@gmail.com
 $ git config --list
 
 222222222222222222222
+git init
+git add .
+$ git commit -m "first commit"
+$ git remote add origin https://github.com/Shahid-Raza7463/practice_at_capitall.git
+$ git push origin master
+$ git branch
+$ git branch -d main
 
+
+2222222222222222
 
