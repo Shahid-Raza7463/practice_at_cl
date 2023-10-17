@@ -1,0 +1,28 @@
+composer self-update
+
+php artisan --version for laravel version check
+composer --version to cmposer
+git --version for git it works git bash trminal
+
+
+22222222222222
+composer update
+
+go to project directery and run 
+ composer update  
+2222222222222222
+
+first project create app
+1 goto git bash using run administrate 
+ composer
+composer global require laravel/installer
+
+go to htdoc file and open cmd or vscode terminal
+
+and run this command 
+composer create-project laravel/laravel example-app
+2222222222
+zoom using mouse / mouse zoom 
+
+go to vs settings and serach
+mouseWheelZoom
