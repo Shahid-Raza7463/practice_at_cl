@@ -1,4 +1,6 @@
 2222222222222222222222222222
+where query builder
+
  ->where(function ($query) {
           $query->where('assignmentmappings.leadpartner', auth()->user()->teammember_id)
             ->orWhere('assignmentmappings.otherpartner', auth()->user()->teammember_id);
